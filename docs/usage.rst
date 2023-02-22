@@ -130,7 +130,7 @@ added. Here is an example::
 
 Note: this version doesn't check for compliance, so you should look in
 the RFC 2445 spec for legal properties for each component, or look in
-the icalendar/calendar.py file, where it is at least defined for each
+the icalendar/cal.py file, where it is at least defined for each
 component.
 
 
